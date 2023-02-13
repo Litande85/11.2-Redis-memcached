@@ -62,6 +62,20 @@
 
 ### *<a name="2"> Ответ к заданию 2</a>*
 
+Установка memcached
+
+```bash
+sudo apt update && sudo apt install memcached
+```
+
+Проверка статуса сервиса
+
+```bash
+sudo systemctl status memcached
+```
+
+![status](img/img%202023-02-13%20221859.png)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
