@@ -105,7 +105,7 @@ telnet localhost 11211
 
 ```bash
 # structure
-set key_name meta_data expiry_time length_in_bytes
+# set key_name meta_data expiry_time length_in_bytes
 
 # example
 
