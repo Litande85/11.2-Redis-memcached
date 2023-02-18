@@ -287,3 +287,7 @@ systemctl status redis
 ### *<a name="5"> Ответ к Заданию 5*</a>*
 
 ![incrby](img/img%202023-02-18%20182211.png)
+
+Использованные источники:
+
+\- [Шпаргалка по Redis / Хабр (habr.com)](https://habr.com/ru/post/204354/)
